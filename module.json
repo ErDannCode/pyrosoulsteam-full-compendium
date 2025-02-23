@@ -20,6 +20,9 @@
       "flags": {}
     }
   ],
+  "url": "https://github.com/ErDannCode/pyrosoulsteam-full-compendium",
+  "manifest": "https://raw.githubusercontent.com/ErDannCode/pyrosoulsteam-full-compendium/refs/heads/main/module.json?token=GHSAT0AAAAAAC7NPUEZSX33J5MFT7ZI36LQZ53QHPA",
+  "download": "https://github.com/ErDannCode/pyrosoulsteam-full-compendium/archive/refs/heads/main.zip",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -32,9 +35,6 @@
         "type": "system",
         "compatibility": {}
       }
-    ],
-    "url": "https://github.com/ErDannCode/pyrosoulsteam-full-compendium",
-    "manifest": "https://raw.githubusercontent.com/ErDannCode/pyrosoulsteam-full-compendium/refs/heads/main/module.json?token=GHSAT0AAAAAAC7NPUEZSX33J5MFT7ZI36LQZ53QHPA",
-    "download": "https://github.com/ErDannCode/pyrosoulsteam-full-compendium/archive/refs/heads/main.zip"
+    ]
   }
 }
