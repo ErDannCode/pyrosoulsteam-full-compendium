@@ -3,7 +3,7 @@
   "packs": [
     {
       "name": "monstruos",
-      "label": "Monstruos",
+      "label": "Pyro - Monsters",
       "path": "packs/monstruos",
       "type": "Actor",
       "system": "dnd5e",
@@ -11,6 +11,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "pyro-npcs",
+      "label": "Pyro - NPCS",
+      "path": "packs/pyro-npcs",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
   "id": "pyrosoulsteam-full-compendium",
