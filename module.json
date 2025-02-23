@@ -32,6 +32,9 @@
         "type": "system",
         "compatibility": {}
       }
-    ]
+    ],
+    "url": "https://github.com/ErDannCode/pyrosoulsteam-full-compendium",
+    "manifest": "https://raw.githubusercontent.com/ErDannCode/pyrosoulsteam-full-compendium/refs/heads/main/module.json",
+    "download": "https://github.com/ErDannCode/pyrosoulsteam-full-compendium/zip/main.zip"
   }
 }
