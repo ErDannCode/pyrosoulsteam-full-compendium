@@ -17,6 +17,17 @@
       "label": "Pyro - NPCS",
       "path": "packs/pyro-npcs",
       "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pyro-personajes",
+      "label": "Pyro - Personajes",
+      "path": "packs/pyro-personajes",
+      "type": "Actor",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
