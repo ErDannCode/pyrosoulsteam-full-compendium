@@ -28,11 +28,11 @@
       "label": "Pyro - Personajes",
       "path": "packs/pyro-personajes",
       "type": "Actor",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ],
   "id": "pyrosoulsteam-full-compendium",
@@ -49,7 +49,7 @@
     "minimum": "11",
     "verified": "12"
   },
-  "version": "0.1.0",
+  "version": "0.2.0",
   "relationships": {
     "systems": [
       {
