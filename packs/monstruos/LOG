@@ -1,23 +1,8 @@
-2025/03/13-12:58:00.906 1d1c Recovering log #134
-2025/03/13-12:58:00.906 1d1c Level-0 table #136: started
-2025/03/13-12:58:00.913 1d1c Level-0 table #136: 731 bytes OK
-2025/03/13-12:58:00.915 1d1c Delete type=0 #134
-2025/03/13-12:58:00.915 1d1c Delete type=3 #133
-2025/03/13-12:58:16.668 5e4 Level-0 table #139: started
-2025/03/13-12:58:16.668 5e4 Level-0 table #139: 0 bytes OK
-2025/03/13-12:58:16.669 5e4 Delete type=0 #137
-2025/03/13-12:58:16.670 5e4 Manual compaction at level-0 from '!actors!6RnreI75b4PUnxP2' @ 72057594037927935 : 1 .. '!folders!tyUQaW1UI4x4bQgN' @ 0 : 0; will stop at '!folders!hyG2Oqb7ksnEAFvF' @ 123 : 1
-2025/03/13-12:58:16.670 5e4 Compacting 1@0 + 0@1 files
-2025/03/13-12:58:16.677 5e4 Generated table #140@0: 3 keys, 589 bytes
-2025/03/13-12:58:16.677 5e4 Compacted 1@0 + 0@1 files => 589 bytes
-2025/03/13-12:58:16.677 5e4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/03/13-12:58:16.677 5e4 Delete type=2 #136
-2025/03/13-12:58:16.678 5e4 Manual compaction at level-0 from '!folders!hyG2Oqb7ksnEAFvF' @ 123 : 1 .. '!folders!tyUQaW1UI4x4bQgN' @ 0 : 0; will stop at (end)
-2025/03/13-12:58:16.679 5e4 Manual compaction at level-1 from '!actors!6RnreI75b4PUnxP2' @ 72057594037927935 : 1 .. '!folders!tyUQaW1UI4x4bQgN' @ 0 : 0; will stop at '!folders!hyG2Oqb7ksnEAFvF' @ 123 : 1
-2025/03/13-12:58:16.679 5e4 Compacting 1@1 + 1@2 files
-2025/03/13-12:58:16.684 5e4 Generated table #141@1: 60 keys, 76296 bytes
-2025/03/13-12:58:16.684 5e4 Compacted 1@1 + 1@2 files => 76296 bytes
-2025/03/13-12:58:16.686 5e4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/13-12:58:16.686 5e4 Delete type=2 #58
-2025/03/13-12:58:16.687 5e4 Delete type=2 #140
-2025/03/13-12:58:16.688 5e4 Manual compaction at level-1 from '!folders!hyG2Oqb7ksnEAFvF' @ 123 : 1 .. '!folders!tyUQaW1UI4x4bQgN' @ 0 : 0; will stop at (end)
+2025/03/14-07:11:48.736 26a4 Recovering log #143
+2025/03/14-07:11:48.739 26a4 Delete type=0 #143
+2025/03/14-07:11:48.739 26a4 Delete type=3 #142
+2025/03/14-11:14:50.264 3da4 Level-0 table #147: started
+2025/03/14-11:14:50.264 3da4 Level-0 table #147: 0 bytes OK
+2025/03/14-11:14:50.266 3da4 Delete type=0 #145
+2025/03/14-11:14:50.280 3da4 Manual compaction at level-0 from '!actors!6RnreI75b4PUnxP2' @ 72057594037927935 : 1 .. '!folders!tyUQaW1UI4x4bQgN' @ 0 : 0; will stop at (end)
+2025/03/14-11:14:50.301 3da4 Manual compaction at level-1 from '!actors!6RnreI75b4PUnxP2' @ 72057594037927935 : 1 .. '!folders!tyUQaW1UI4x4bQgN' @ 0 : 0; will stop at (end)
